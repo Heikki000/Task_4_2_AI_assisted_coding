@@ -42,6 +42,6 @@ public class Calculator {
 The program has a class `Calculator` with a constructor that takes an integer as a parameter.  
 The method `add` takes an integer as a parameter and adds it to the value of the calculator.  
 If the parameter is a negative number, the method throws an `IllegalArgumentException`.  
-The class has a method `sum` that takes two integers as parameters and returns their sum.  
+The class also has a method `sum` that takes two integers as parameters and returns their sum.  
 The method `reset`resets the value of the calculator to 0.  
 `getValue` method returns the value of the calculator to be used outside the Calculator class.  
